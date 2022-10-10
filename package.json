@@ -1,6 +1,6 @@
 {
-  "name": "islamtube",
-  "description": "An app that shows islamic videos",
+  "name": "keyword-research-yt",
+  "description": "Keyword Research YT",
   "version": "1.0.0",
   "author": "touseef ibn khaleel <touseef69r@gmail.com>",
   "private": true,
@@ -14,6 +14,7 @@
     "@chakra-ui/react": "^2.3.5",
     "@emotion/react": "11",
     "@emotion/styled": "11",
+    "@tanstack/react-query": "^4.10.3",
     "framer-motion": "6",
     "next": "12.3.1",
     "react": "18.2.0",

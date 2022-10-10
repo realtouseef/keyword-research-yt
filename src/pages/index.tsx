@@ -1,15 +1,16 @@
 import type { NextPage } from "next";
 import { Box, Heading } from "@chakra-ui/react";
 import Head from "next/head";
+import { Hero } from "@/components/Hero/Hero";
 
 const Home: NextPage = () => {
   return (
-    <Box maxW="8xl" mx="auto" textAlign="center" mt="20px">
+    <Box>
       <Head>
-        <title>islamtube⭐</title>
+        <title>YT Keyword Extractor</title>
       </Head>
 
-      <Heading>islamtube⭐</Heading>
+      <Hero />
     </Box>
   );
 };
