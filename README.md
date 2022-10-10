@@ -1,4 +1,4 @@
-# NextJS, Chakra-ui, TypeScript template
+# NextJS, Chakra-ui, TypeScript template 🤩
 
 A boilerplate template for NextJS, Chakra-ui, and TypeScript
 
