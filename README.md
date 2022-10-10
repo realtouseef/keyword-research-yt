@@ -1,9 +1,14 @@
-# islamtube⭐
+# NextJS, Chakra-ui, TypeScript template
 
-An app that shows only islamic videos — consuming YT API
+A boilerplate template for NextJS, Chakra-ui, and TypeScript
 
-## Tech Stack
+## Usage
 
-- NextJS
-- TypeScript
-- Chakra-ui
+```bash
+
+git clone https://github.com/realtouseef/next-chakra-ts-template.git
+
+cd next-chakra-ts-template
+
+yarn
+```

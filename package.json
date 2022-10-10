@@ -1,6 +1,6 @@
 {
-  "name": "islamtube",
-  "description": "An app that shows islamic videos",
+  "name": "next-chakra-ts-template",
+  "description": "A boilerplate for NextJS, chakra-ui, and typescript",
   "version": "1.0.0",
   "author": "touseef ibn khaleel <touseef69r@gmail.com>",
   "private": true,
