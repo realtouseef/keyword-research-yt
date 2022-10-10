@@ -6,10 +6,10 @@ const Home: NextPage = () => {
   return (
     <Box maxW="8xl" mx="auto" textAlign="center" mt="20px">
       <Head>
-        <title>NextJS, Chakra-ui, TypeScript template🤩</title>
+        <title>islamtube⭐</title>
       </Head>
 
-      <Heading>NextJS, Chakra-ui, TypeScript template🤩</Heading>
+      <Heading>islamtube⭐</Heading>
     </Box>
   );
 };
