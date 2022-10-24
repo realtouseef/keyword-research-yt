@@ -1,6 +1,6 @@
 # Keyword Research YT ⭐
 
-An Keyword Research Tool — consuming YT API
+A Keyword Research Tool — consuming YT API
 
 ## Tech Stack
 
