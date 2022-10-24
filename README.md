@@ -1,4 +1,4 @@
-# Keyword Research YT
+# Keyword Research YT ⭐
 
 An Keyword Research Tool — consuming YT API
 
