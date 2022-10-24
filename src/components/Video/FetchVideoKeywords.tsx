@@ -50,9 +50,9 @@ export const FetchVideoKeywords = ({ url }: { url: string }): JSX.Element => {
                 </Heading>
                 <Highlight
                   query={
-                    `${snippet.tags}`
-                      ? `${snippet?.tags?.length} keywords found`
-                      : "No keywords found"
+                    `${snippet.tags === undefined}`
+                      ? "No keywords found"
+                      : `${snippet?.tags?.length} keywords found`
                   }
                   styles={{
                     px: "1",
@@ -61,9 +61,9 @@ export const FetchVideoKeywords = ({ url }: { url: string }): JSX.Element => {
                     bg: "green.200",
                   }}
                 >
-                  {`${snippet.tags}`
-                    ? `${snippet?.tags?.length} keywords found`
-                    : "No keywords found"}
+                  {`${snippet.tags === undefined}`
+                    ? "No keywords found"
+                    : `${snippet?.tags?.length} keywords found`}
                 </Highlight>
               </Flex>
               <Box>
