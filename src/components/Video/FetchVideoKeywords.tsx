@@ -69,8 +69,8 @@ export const FetchVideoKeywords = ({ url }: { url: string }): JSX.Element => {
                     snippet.tags.join(", ")
                   ) : (
                     <Text>
-                      The video's creator has not added any keywords. Check for
-                      another video.
+                      The video&apos;s creator has not added any keywords. Check
+                      for another video.
                     </Text>
                   )}
                 </Box>

@@ -29,9 +29,10 @@ export const Form: React.FunctionComponent = () => {
             pointerEvents="none"
             color="gray.300"
             fontSize="1.25em"
-            children="⭐"
             my="1"
-          />
+          >
+            ⭐
+          </InputLeftElement>
           <Input
             size="lg"
             variant="filled"
